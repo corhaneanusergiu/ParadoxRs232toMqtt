@@ -13,7 +13,7 @@
 
 #define firmware "PARADOX_2.2.3"
 
-#define mqtt_server       "192.168.2.230"
+#define mqtt_server       "10.10.100.101"
 #define mqtt_port         "1883"
 #define mqtt_user         ""
 #define mqtt_password     "" 
